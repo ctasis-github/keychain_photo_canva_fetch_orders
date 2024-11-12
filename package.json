@@ -1,8 +1,8 @@
 {
-  "name": "senabel_fetch_amz_inventories",
+  "name": "keychain_photo_canva_fetch_orders",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "git@github.com:ctasis-github/senabel_fetch_amz_orders.git",
+  "repository": "git@github.com:ctasis-github/keychain_photo_canva_fetch_orders.git",
   "author": "Ctas",
   "license": "MIT",
   "scripts": {
