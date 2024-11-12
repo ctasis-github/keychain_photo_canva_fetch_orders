@@ -31,7 +31,6 @@ module.exports = {
       useUnifiedTopology: true,
     },
   },
-  past_days: 30,
   amzSPAPI: {
     client_id: envVars.SELLING_PARTNER_APP_CLIENT_ID,
     client_secret: envVars.SELLING_PARTNER_APP_CLIENT_SECRET,
